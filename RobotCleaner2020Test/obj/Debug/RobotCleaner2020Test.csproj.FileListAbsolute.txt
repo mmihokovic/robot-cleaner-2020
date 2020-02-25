@@ -1,0 +1,16 @@
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\obj\Debug\RobotCleaner2020Test.csprojResolveAssemblyReference.cache
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\obj\Debug\RobotCleaner2020Test.csproj.CoreCompileInputs.cache
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\RobotCleaner2020Test.dll
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\RobotCleaner2020Test.pdb
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\RobotCleaner2020.exe
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\RobotCleaner2020.pdb
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\RobotCleaner2020.exe.config
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\obj\Debug\RobotCleaner2020Test.dll
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020Test\obj\Debug\RobotCleaner2020Test.pdb

@@ -1,0 +1,7 @@
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020\bin\Debug\RobotCleaner2020.exe.config
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020\bin\Debug\RobotCleaner2020.exe
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020\bin\Debug\RobotCleaner2020.pdb
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020\obj\Debug\RobotCleaner2020.csprojResolveAssemblyReference.cache
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020\obj\Debug\RobotCleaner2020.csproj.CoreCompileInputs.cache
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020\obj\Debug\RobotCleaner2020.exe
+c:\users\noa\Source\Repos\RobotCleaner2020\RobotCleaner2020\obj\Debug\RobotCleaner2020.pdb
